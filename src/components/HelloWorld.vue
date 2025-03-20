@@ -16,7 +16,6 @@
 <script>
 export default {
   name: 'CoffeBrack',
-  // Aquí puedes agregar métodos, data, computed properties, etc.
 }
 </script>
 
@@ -69,11 +68,12 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
 button:hover {
-  background-color: rgba(0, 86, 179, 0.8); /* Fondo semi-transparente al hacer hover */
+  transform: scale(1.1);
+  background-color: rgba(0, 86, 179, 0.8); /* Cambio de color en hover */
 }
 
 .Cafe {
@@ -81,6 +81,6 @@ button:hover {
 }
 
 .comida-ligera {
-  background-color: rgba(176, 144, 135, 0.8); /* Color verde para el botón de Comida ligera */
+  background-color: rgba(176, 144, 135, 0.8); /* Color para el botón de Comida ligera */
 }
 </style>
