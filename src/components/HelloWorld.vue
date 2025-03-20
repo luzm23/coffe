@@ -1,7 +1,7 @@
 <template>
   <div class="fullscreen-container">
     <div class="image-container">
-      <img src="C:\Users\dell\Downloads\cafe.jpg" alt="Coffe Brack" />
+       <img src="../assets/cafe.jpg" alt="Vue Logo" />
       <div class="content-over-image">
         <h1>Bienvenidos a Coffe Brack</h1>
         <div class="buttons-container">
