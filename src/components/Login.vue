@@ -3,7 +3,6 @@
       <div class="image-container">
         <img src="../assets/fon.jpg" alt="Vue Logo" />
         <div class="content-over-image">
-          <h1>Bienvenidos a "Coffe Bars" en el centro de tlaxiaco </h1>
           <div class="buttons-container">
            
           </div>
