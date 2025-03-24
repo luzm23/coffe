@@ -3,7 +3,7 @@
       <div class="image-container">
         <img src="../assets/fon.jpg" alt="Vue Logo" />
         <div class="content-over-image">
-          <h1>Bienvenidos a "Coffe Bars"</h1>
+          <h1>Bienvenidos a "Coffe Bars" karina</h1>
           <div class="buttons-container">
            
           </div>
