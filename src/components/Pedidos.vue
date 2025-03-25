@@ -109,6 +109,6 @@ h2 {
 .quantity {  
   font-size: 1.1em;  
   font-weight: bold;  
-  margin-top: 10px;  
+  margin-top: 15px;  
 }  
 </style>
