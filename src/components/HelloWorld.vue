@@ -10,8 +10,6 @@
   </div>
 </template>
 
-
-
 <script>
 import Login from './Login.vue';
 import Desayunos from './Desayunos.vue';

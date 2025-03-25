@@ -68,12 +68,10 @@
     cursor: pointer;
     transition: transform 0.3s ease, background-color 0.3s ease;
   }
-  
   button:hover {
     transform: scale(1.1);
     background-color: rgba(0, 86, 179, 0.8);
   }
-  
   .Cafe {
     background-color: rgba(176, 144, 135, 0.8);
   }
